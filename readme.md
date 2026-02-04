@@ -151,6 +151,3 @@ MIT License - see LICENSE file for details.
 
 ---
 
-**Project by**: [Your Name]  
-**Contact**: [Your Email]  
-**Repository**: [Your GitHub Link]
